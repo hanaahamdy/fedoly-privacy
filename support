@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>الدعم الفني - فضولي</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            line-height: 1.8;
+            color: #333;
+        }
+
+        h1 {
+            color: #6C4DFF;
+        }
+
+        .box {
+            background: #f8f6ff;
+            border-radius: 12px;
+            padding: 20px;
+            border: 1px solid #e5e0ff;
+        }
+
+        a {
+            color: #6C4DFF;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>الدعم الفني - فضولي</h1>
+
+    <div class="box">
+        <p>
+            إذا واجهت أي مشكلة أثناء استخدام تطبيق فضولي أو كان لديك أي استفسار،
+            يرجى التواصل معنا عبر إحدى وسائل التواصل التالية:
+        </p>
+
+        <h3>البريد الإلكتروني</h3>
+       <p>
+            📧
+            <a href="mailto:msaadfathy@gmail.com">
+                msaadfathy@gmail.com
+            </a>
+        </p>
+
+        <p>
+            📧
+            <a href="mailto:hanaahamdy514@gmail.com">
+                hanaahamdy514@gmail.com
+            </a>
+        </p>
+
+ 
+
+        <p>
+            سنقوم بالرد على جميع الاستفسارات في أقرب وقت ممكن.
+        </p>
+    </div>
+
+</body>
+</html>
